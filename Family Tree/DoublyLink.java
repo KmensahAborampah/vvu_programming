@@ -1,5 +1,3 @@
-// DoublyLink class 
-
 public class DoublyLink {
     public DoublyLink previous;
     public  String data;
